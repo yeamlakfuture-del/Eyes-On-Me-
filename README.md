@@ -1,5 +1,4 @@
 # Eyes-On-Me
-# Eyes-On-Me
 
 # Smart Shoulder Assistive Device 
 
