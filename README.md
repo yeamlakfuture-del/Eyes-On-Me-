@@ -151,8 +151,12 @@ I wanted to create somethig affordable and a mini companion to visually impaired
 And this passion was driven from my school, which was an inclusive school designed to help blind and deaf and I had a friend that is visually impaired and was not able to go from one place to another and he was allways bumping with walls and poles. So i thought if i was able to give a solution for all blind people and my friend. So i started this project and i was not alone he was giving me adviseing me and give so recommendations all along my journey.
 
 ---
+ 
+ # Zine
 
+ 
 
+![Zine Page](Zine.pdf)
     
 ---
 
