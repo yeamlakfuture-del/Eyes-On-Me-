@@ -152,11 +152,6 @@ And this passion was driven from my school, which was an inclusive school design
 
 ---
 
- ## Zine
- 
-# My Zine Project
-
-![Zine Page](Zine.pdf)
 
     
 ---
