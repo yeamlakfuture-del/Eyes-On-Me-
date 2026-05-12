@@ -156,7 +156,7 @@ And this passion was driven from my school, which was an inclusive school design
  
 # My Zine Project
 
-![Zine Page](zine.png)
+![Zine Page](Zine.pdf)
 
     
 ---
