@@ -150,7 +150,13 @@ The Arduino code reads distance from the ultrasonic sensor and controls the vibr
 I wanted to create somethig affordable and a mini companion to visually impaired people giving the independence and allow them to maneuver from one place to another. This project focuses on practical usability by using vibration instead of sound, making it more suitable for real-world environments.
 And this passion was driven from my school, which was an inclusive school designed to help blind and deaf and I had a friend that is visually impaired and was not able to go from one place to another and he was allways bumping with walls and poles. So i thought if i was able to give a solution for all blind people and my friend. So i started this project and i was not alone he was giving me adviseing me and give so recommendations all along my journey.
 
+---
 
+ ## Zine
+ 
+
+
+    
 ---
 
 ##  Author
