@@ -8,4 +8,4 @@
 | NPN Transistor  2N2222      | 1        | Purchase          | Motor switching control              |https://www.aliexpress.com/item/1005011811033238.html|
 | Flyback Diode (1N4007)      | 1        | Purchase          | Protects circuit from voltage spikes |https://www.aliexpress.com/item/1005007807556976.html|
 | USB Cable                   | 1        | Personal          | Programming and power                |https://www.aliexpress.com/item/1005011743565393.html|
-| USB Power Bank              | 1        | Purchase          | Portable wearable power source       |
+| Rechargeable Lithium Battery| 1        | Purchase          | Portable wearable power source       |https://www.aliexpress.com/item/1005007492159461.html|
