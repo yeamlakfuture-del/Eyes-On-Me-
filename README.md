@@ -155,7 +155,7 @@ And this passion was driven from my school, which was an inclusive school design
  # Zine
 
  
-
+https://github.com/yeamlakfuture-del/Eyes-On-Me-/blob/124b1a12d9a739b845fa02ee238e354cee335526/Zine.pdf
 
     
 ---
